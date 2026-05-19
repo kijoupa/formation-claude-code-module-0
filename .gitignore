@@ -1,0 +1,25 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Notes personnelles des apprenants (non versionnées)
+notes-perso-*.md
+brouillon-*.md
+
+# Logs
+*.log
+
+# Variables d'environnement
+.env
+.env.local
+
+# Caches Claude Code locaux
+.claude/local/
